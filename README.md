@@ -1,9 +1,7 @@
-## 💻 Daniel B. Acuña-Ureta | Robotics Engineer 
-I am a Chilean Computer Sciences Engineer and Robotics Engineer with experience in software development, process automation, and leading technical teams. I currently work as a Tech Lead at ICASS.
+## 💻 Daniel Acuña-Ureta | Robotics Engineer  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg" alt="Chilean Flag" width="20">
+I am a Chilean Computer Sciences Engineer and Robotics Engineer with experience in software development, process automation, and leading technical teams.
 
 ## 🛠️ Technical Skills
-The following lists the technologies and tools in which I have experience, categorized by the proficiency levels indicated in my CV.
-
 ### 👨‍💻 Languages
 
 #### Hight Level
@@ -13,7 +11,7 @@ The following lists the technologies and tools in which I have experience, categ
 ![MATHEMATICA](https://img.shields.io/badge/MATHEMATICA-red?logo=mathematica&logoColor=white)
 [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
 #### Low Level & IoT
-![C](https://img.shields.io/badge/c-%2300599C.svg?&logo=c&logoColor=white)
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 [![AssemblyScript](https://img.shields.io/badge/AssemblyScript-007AAC?logo=assemblyscript&logoColor=fff)](#)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=fff)
 ![VERILOG](https://img.shields.io/badge/VERILOG-green?logo=verilog&logoColor=white)
@@ -45,6 +43,11 @@ The following lists the technologies and tools in which I have experience, categ
 ![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)
 [![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff)](#)
 [![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](#)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
+[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
+[![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)](#)
+[![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=fff)](#)
 ## 🚀 Featured Experience
 
 ### Tech Lead - ICASS (2024-Present) 
